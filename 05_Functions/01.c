@@ -2,7 +2,7 @@
 
 int cubesum(int);
 
-int main(){
+void main(){
     int input;
     printf("Enter the range in three digit or above:  ");
     scanf("%d",&input);
