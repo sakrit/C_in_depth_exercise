@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+void main(){
     int programNo = 3, n = 4;
 
     switch (programNo)
